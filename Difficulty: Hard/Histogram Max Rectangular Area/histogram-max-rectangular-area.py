@@ -32,6 +32,7 @@ class Solution:
             v = (right[i] - left[i] - 1) * arr[i]
             maxi = max(v, maxi)
         return maxi
+        #code here
 
 
 #{ 
